@@ -84,7 +84,7 @@ public class NestedThesisExamAttendanceNo {
 
 ### Output (langkah 8)
 
-![Output Percobaan 1](images/exp1-output.png)
+![Output Percobaan 1](exp1-output.png)
 
 ### Variasi Pengujian
 
