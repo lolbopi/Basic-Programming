@@ -88,7 +88,7 @@ public class NestedThesisExamAttendanceNo {
 
 ### Variasi Pengujian
 
-![Pengujian Percobaan 1](images/exp1-tests.png)
+![Pengujian Percobaan 1](exp1-tests.png)
 
 | Penalti bebas? | Pembimbing 1 | Pembimbing 2 | Hasil |
 |---|---|---|---|
@@ -155,7 +155,7 @@ public class LogicalOperatorWifiAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Percobaan 2](images/exp2-tests.png)
+![Pengujian Percobaan 2](exp2-tests.png)
 
 | Test | isStudent | isLecturer | isBlocked | Hasil |
 |---|---|---|---|---|
@@ -231,7 +231,7 @@ public class NestedLabAccessAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Percobaan 3](images/exp3-tests.png)
+![Pengujian Percobaan 3](exp3-tests.png)
 
 Urutan input: `isActiveStudent`, `isSanctioned`, `hasLecturerPermit`, `isLabAssistant`.
 
@@ -319,7 +319,7 @@ public class Task2AssistantSelectionAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Tugas 2](images/task2-tests.png)
+![Pengujian Tugas 2](task2-tests.png)
 
 | Skenario | Hasil |
 |---|---|
