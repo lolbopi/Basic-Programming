@@ -343,7 +343,12 @@ public class Task2AssistantSelectionAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Tugas 2](task2-tests.png)
+![Pengujian Tugas 2](task21.png)
+![Pengujian Tugas 2](task22.png)
+![Pengujian Tugas 2](task23.png)
+![Pengujian Tugas 2](task24.png)
+![Pengujian Tugas 2](task25.png)
+![Pengujian Tugas 2](task26.png)
 
 | Skenario | Hasil |
 |---|---|
