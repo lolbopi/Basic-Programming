@@ -160,7 +160,7 @@ public class LogicalOperatorWifiAttendanceNo {
 
 **Test 1** (`true, false, false`)
 
-![Test 1 Percobaan 2](exp2-test1.png)
+![Test 1 Percobaan 2](tff.png)
 
 **Test 2** (`false, true, false`)
 
