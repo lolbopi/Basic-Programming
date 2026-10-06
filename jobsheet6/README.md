@@ -87,11 +87,11 @@ public class NestedThesisExamAttendanceNo {
 
 ### Output (langkah 8)
 
-![Output Percobaan 1](images/exp1-output.png)
+![Output Percobaan 1](exp1-output.png)
 
 ### Variasi Pengujian
 
-![Pengujian Percobaan 1](images/exp1-tests.png)
+![Pengujian Percobaan 1](exp1-tests.png)
 
 | Penalti bebas? | Pembimbing 1 | Pembimbing 2 | Hasil |
 |---|---|---|---|
@@ -160,19 +160,19 @@ public class LogicalOperatorWifiAttendanceNo {
 
 **Test 1** (`true, false, false`)
 
-![Test 1 Percobaan 2](images/exp2-test1.png)
+![Test 1 Percobaan 2](exp2-test1.png)
 
 **Test 2** (`false, true, false`)
 
-![Test 2 Percobaan 2](images/exp2-test2.png)
+![Test 2 Percobaan 2](exp2-test2.png)
 
 **Test 3** (`true, false, true`)
 
-![Test 3 Percobaan 2](images/exp2-test3.png)
+![Test 3 Percobaan 2](exp2-test3.png)
 
 **Test 4** (`false, false, false`)
 
-![Test 4 Percobaan 2](images/exp2-test4.png)
+![Test 4 Percobaan 2](exp2-test4.png)
 
 | Test | isStudent | isLecturer | isBlocked | Hasil |
 |---|---|---|---|---|
@@ -248,7 +248,7 @@ public class NestedLabAccessAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Percobaan 3](images/exp3-tests.png)
+![Pengujian Percobaan 3](exp3-tests.png)
 
 Urutan input: `isActiveStudent`, `isSanctioned`, `hasLecturerPermit`, `isLabAssistant`.
 
@@ -336,7 +336,7 @@ public class Task2AssistantSelectionAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Tugas 2](images/task2-tests.png)
+![Pengujian Tugas 2](task2-tests.png)
 
 | Skenario | Hasil |
 |---|---|
