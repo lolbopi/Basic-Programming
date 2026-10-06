@@ -167,15 +167,15 @@ public class LogicalOperatorWifiAttendanceNo {
 
 **Test 2** (`false, true, false`)
 
-![Test 2 Percobaan 2](exp2-test2.png)
+![Test 2 Percobaan 2](Ftf.png)
 
 **Test 3** (`true, false, true`)
 
-![Test 3 Percobaan 2](exp2-test3.png)
+![Test 3 Percobaan 2](tft.png)
 
 **Test 4** (`false, false, false`)
 
-![Test 4 Percobaan 2](exp2-test4.png)
+![Test 4 Percobaan 2](fff.png)
 
 | Test | isStudent | isLecturer | isBlocked | Hasil |
 |---|---|---|---|---|
