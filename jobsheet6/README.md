@@ -91,7 +91,10 @@ public class NestedThesisExamAttendanceNo {
 
 ### Variasi Pengujian
 
-![Pengujian Percobaan 1](exp1-tests.png)
+![Pengujian Percobaan 1](NTExp1.png)
+![Pengujian Percobaan 1](NTExp2.png)
+![Pengujian Percobaan 1](NTExp3.png)
+![Pengujian Percobaan 1](NTExp4.png)
 
 | Penalti bebas? | Pembimbing 1 | Pembimbing 2 | Hasil |
 |---|---|---|---|
