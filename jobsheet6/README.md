@@ -251,7 +251,11 @@ public class NestedLabAccessAttendanceNo {
 
 ### Output Pengujian
 
-![Pengujian Percobaan 3](exp3-tests.png)
+![Pengujian Percobaan 3](Nestedlab1.png)
+![Pengujian Percobaan 3](Nestedlab2.png)
+![Pengujian Percobaan 3](Nestedlab3.png)
+![Pengujian Percobaan 3](Nestedlab4.png)
+
 
 Urutan input: `isActiveStudent`, `isSanctioned`, `hasLecturerPermit`, `isLabAssistant`.
 
