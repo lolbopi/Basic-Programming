@@ -50,7 +50,7 @@ Dosen memasukkan nilai kuis dari 10 mahasiswa dalam satu kelas. Program mencari 
 
 ### Flowchart
 
-![Flowchart Eksperimen 1](images/flowchart-eksperimen1.jpg)
+![Flowchart Eksperimen 1](image/flowchart-eksperimen1.jpg)
 
 ### Kode Program: `SiakadForAttendanceNo.java`
 
