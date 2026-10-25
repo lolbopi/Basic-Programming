@@ -525,7 +525,7 @@ Total revenue: Rp 885000
 
 Tarif parkir: mobil Rp 3.000 per jam, motor Rp 2.000 per jam. Program terus meminta input selama jenis kendaraan bukan 0.
 
-![Flowchart Tugas 2](images/flowchart-tugas2.jpg)
+![Flowchart Tugas 2](image/flowchart-tugas2.jpg)
 
 File: `TugasParkirAttendanceNo.java`
 
